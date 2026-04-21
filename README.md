@@ -21,7 +21,7 @@ A collection of sustainability tools built to demonstrate domain knowledge in GH
 ## The tools
 
 ### 01 · Building Emissions Benchmark & Decarbonisation Tool
-`Building-emissions-benchmark-tool.html`
+`https://jacob-hub-esg.github.io/esgbenchmark/`
 
 A four-step web application for commercial real estate carbon accounting.
 
@@ -43,7 +43,7 @@ A four-step web application for commercial real estate carbon accounting.
 ---
 
 ### 02 · CSRD Readiness Assessment Framework
-`csrd-assessment.html`
+`https://jacob-hub-esg.github.io/csrd-framework/`
 
 A full 10-section ESRS readiness assessment covering all Environmental, Social, and Governance disclosure areas.
 
@@ -74,7 +74,7 @@ A full 10-section ESRS readiness assessment covering all Environmental, Social, 
 ---
 
 ### 03 · CO₂ Benchmark Calculator
-`CO2BenchmarkCalculator.jsx`
+`https://jacob-hub-esg.github.io/my-calculator/`
 
 A lightweight React component for instant commercial real estate carbon footprint estimation.
 
@@ -123,18 +123,18 @@ Covers:
 No build step required for the HTML tools. Clone the repo and open the files directly in a browser:
 
 ```bash
-git clone https://github.com/your-username/greentech-portfolio
+git clone https://github.com/jacob-hub-esg
 cd greentech-portfolio
 
 # Open the portfolio page
-open comundo-portfolio.html
+open https://jacob-hub-esg.github.io/Comundo-portfolio/
 
 # Or open individual tools
-open Building-emissions-benchmark-tool.html
-open csrd-assessment.html
+open https://jacob-hub-esg.github.io/esgbenchmark/
+open https://jacob-hub-esg.github.io/csrd-framework/
 ```
 
-For the React component (`CO2BenchmarkCalculator.jsx`), drop it into any React project or use a sandbox like CodeSandbox / StackBlitz.
+For the React component (`https://jacob-hub-esg.github.io/my-calculator/`), drop it into any React project or use a sandbox like CodeSandbox / StackBlitz.
 
 ---
 
@@ -144,9 +144,9 @@ The simplest way to share live links is GitHub Pages:
 
 1. Push this repo to GitHub
 2. Go to **Settings → Pages → Source → Deploy from branch → main / root**
-3. Your tools will be live at `https://your-username.github.io/greentech-portfolio/`
+3. Your tools will be live at `https://github.com/jacob-hub-esg`
 
-Update the button links in `comundo-portfolio.html` with your live URLs before sharing.
+Update the button links in `https://jacob-hub-esg.github.io/Comundo-portfolio/` with your live URLs before sharing.
 
 ---
 
@@ -168,7 +168,7 @@ Update the button links in `comundo-portfolio.html` with your live URLs before s
 ## About
 
 **Joatham Jacob**  
-MSc Corporate Sustainability — Università degli Studi di Milano  
-[linkedin.com/in/joathamjacob](https://linkedin.com/in/joathamjacob) · joatham.jacob@example.com
+MSc Environmental Change and Global Sustainability — Università degli Studi di Milano  
+[linkedin.com/in/joathamjacob](https://linkedin.com/in/joathamjacob) · joathamjacob@gmail.com
 
 Built April 2026 as part of an application to [comundo](https://www.comundo.io) — the Copenhagen-based startup automating energy data collection and carbon accounting for property owners across Europe.
