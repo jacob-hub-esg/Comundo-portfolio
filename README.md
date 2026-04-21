@@ -21,7 +21,7 @@ A collection of sustainability tools built to demonstrate domain knowledge in GH
 ## The tools
 
 ### 01 · Building Emissions Benchmark & Decarbonisation Tool
-`https://jacob-hub-esg.github.io/esgbenchmark/`
+`[https://jacob-hub-esg.github.io/esgbenchmark/](https://jacob-hub-esg.github.io/esgbenchmark/)`
 
 A four-step web application for commercial real estate carbon accounting.
 
