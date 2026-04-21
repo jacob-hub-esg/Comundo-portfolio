@@ -169,6 +169,6 @@ Update the button links in `https://jacob-hub-esg.github.io/Comundo-portfolio/` 
 
 **Joatham Jacob**  
 MSc Environmental Change and Global Sustainability — Università degli Studi di Milano  
-[linkedin.com/in/joathamjacob](https://linkedin.com/in/joathamjacob) · joathamjacob@gmail.com
+[linkedin.com/in/joatham-jacob](linkedin.com/in/joatham-jacob) · joathamjacob@gmail.com
 
 Built April 2026 as part of an application to [comundo](https://www.comundo.io) — the Copenhagen-based startup automating energy data collection and carbon accounting for property owners across Europe.
